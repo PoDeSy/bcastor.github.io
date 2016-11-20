@@ -1,0 +1,6 @@
+---
+published: true
+title: Photo
+layout: post
+---
+Test
