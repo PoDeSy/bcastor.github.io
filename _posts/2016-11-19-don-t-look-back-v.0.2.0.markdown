@@ -2,7 +2,7 @@
 published: true
 title: Don't look back v.0.2.0
 layout: post
-categories: [prototyping]
+tags: [prototyping]
 ---
 Took a second pass on my current prototype, Don\'t Look Back. Crash landed colony ship, Coop/Deduction/Survival Not playable yet but have a basic loop in mind:
 
