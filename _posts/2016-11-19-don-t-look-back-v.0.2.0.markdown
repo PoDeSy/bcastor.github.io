@@ -30,4 +30,4 @@ Night Phase
 - repair mechanic -
 - location actions damaged and undamaged
 
-[[embed url=http://www.youtube.com/watch?v=6YbBmqUnoQM]]
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
