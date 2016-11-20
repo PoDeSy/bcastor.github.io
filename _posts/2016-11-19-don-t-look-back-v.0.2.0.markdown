@@ -7,7 +7,7 @@ title: Don't look back v.0.2.0
 
 Took a second pass on my current prototype, Don\'t Look Back. Crash landed colony ship, Coop/Deduction/Survival Not playable yet but have a basic loop in mind:
 
-Day Phase 
+**Day Phase** 
 
 * play card to location 
 * move worker from this location to location matching colors of current and previous card played. 
@@ -17,7 +17,9 @@ Day Phase
  -  option free pickup and drop off at locations passed 
 - activate location at strength level of remaining AP w/ bonus for additional workers on action space 
 - play passes clockwise, repeat until all action cards played 
-Night Phase
+
+**Night Phase**
+
  - shuffle action card stacks 
 - reveal and lay out top 3 cards of each stack by rank
  - alien scout effects are resolved - laser and mortar defenses are activated 
