@@ -1,8 +1,7 @@
 ---
 published: true
-title: Don't look back v.0.2.0
 layout: post
-tags: [prototyping]
+title: Don't look back v.0.2.0
 ---
 Took a second pass on my current prototype, Don\'t Look Back. Crash landed colony ship, Coop/Deduction/Survival Not playable yet but have a basic loop in mind:
 
@@ -31,3 +30,5 @@ Night Phase
 - location actions damaged and undamaged
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+
+![](https://www.dropbox.com/s/m0248qdz3rayfe7/Pensive%20Parakeet.jpg?dl=0)
