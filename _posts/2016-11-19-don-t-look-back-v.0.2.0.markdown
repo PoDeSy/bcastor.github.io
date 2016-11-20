@@ -3,6 +3,8 @@ published: true
 layout: post
 title: Don't look back v.0.2.0
 ---
+![](https://www.dropbox.com/s/5fyksua2pziwzmp/qwTBRCSp.jpg?raw=1)
+
 Took a second pass on my current prototype, Don\'t Look Back. Crash landed colony ship, Coop/Deduction/Survival Not playable yet but have a basic loop in mind:
 
 Day Phase 
